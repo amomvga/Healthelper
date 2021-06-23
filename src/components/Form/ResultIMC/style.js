@@ -8,13 +8,16 @@ const styles = StyleSheet.create({
         borderRadius:50,
         alignItems:"center",
         width:"100%",
-        fontSize:48,
-        color:"#8c0000",
-        fontWeight:"bold",
     },
 
     information:{
         fontSize:18,
+        color:"#8c0000",
+        fontWeight:"bold",
+    },
+
+    nber:{
+        fontSize:48,
         color:"#8c0000",
         fontWeight:"bold",
     },

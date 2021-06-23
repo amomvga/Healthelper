@@ -7,7 +7,7 @@ export default function ResultIMC(props) {
     return (
         <View style={styles.result}>
             <Text style={styles.information}>{props.messageResultIMC}</Text>
-            <Text style={styles.information}>{props.ResultIMC}</Text>
+            <Text style={styles.nber}>{props.ResultIMC}</Text>
         </View>
     );
 }
