@@ -12,13 +12,13 @@ const styles = StyleSheet.create({
 
     information:{
         fontSize:18,
-        color:"#8c0000",
+        color:"#ffffff",
         fontWeight:"bold",
     },
 
     nber:{
         fontSize:48,
-        color:"#8c0000",
+        color:"#ffffff",
         fontWeight:"bold",
     },
 
